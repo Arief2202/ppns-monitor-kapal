@@ -36,7 +36,12 @@
   </head>
   <body style="height: 100%;width: 100%;margin: 0;background:linear-gradient(56deg, rgba(34,193,195,1) 0%, rgba(251,251,251,1) 29%, rgba(235,213,255,1) 43%, rgba(251,243,225,1) 65%, rgba(130,96,255,1) 100%);">
     <div class="row p-5" style="width:100%;">
-        <div class="col-xl-7"></div>
+        <div class="col-xl-7" style="position:relative;">
+            <h1 style="position:absolute;font-weight:700;"><b>S I S T E M<br>P E N D E T E K S I<br>K A P A L</b></h1>
+            <div class="d-flex justify-content-end align-items-end me-2">
+              <img src="/img/ship1.png" alt="" width="70%">
+            </div>
+        </div>
         <div class="col-xl-4 p-5">
           <div class="card p-2" style="background-color:rgba(255,255,255,0.6); border-radius:20px;">
             <div class="card-body">
